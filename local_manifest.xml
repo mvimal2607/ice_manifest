@@ -2,7 +2,7 @@
 <manifest>
   <remote fetch="https://gitlab.com" name="gtlab" />
 
-  <project name="ice-everest/android_device_realme_ice" path="device/realme/ice" revision="fourteen" remote="github" />
+  <project name="mvimal2607/android_device_realme_ice" path="device/realme/ice" revision="fourteen" remote="github" />
   <project name="mvimal2607/android_device_oneplus_sm8350-common" path="device/oneplus/sm8350-common" revision="fourteen" remote="github" />
   <project name="ice-everest/android_kernel_oplus_RMX3461" path="kernel/oplus/RMX3461" remote="github" revision="ice" />
   <project name="mvimal2607/android_hardware_oplus" path="hardware/oplus" remote="github" revision="fourteen" />
